@@ -1,0 +1,2 @@
+C:/gitClone/news_app/android/app/.cxx/Debug/265h1f44/x86/CMakeFiles/edit_cache.dir
+C:/gitClone/news_app/android/app/.cxx/Debug/265h1f44/x86/CMakeFiles/rebuild_cache.dir
